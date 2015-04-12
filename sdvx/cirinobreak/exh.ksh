@@ -6,7 +6,7 @@ illustrator=蒼弐
 difficulty=extended
 level=14
 t=196
-m=nofx.aac;exh.aac
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -1045,9 +1045,9 @@ beat=4/4
 0000|00|--
 0100|00|--
 0000|00|--
+0000|00|--
+0000|00|--
 1000|00|--
-0000|00|--
-0000|00|--
 0000|00|--
 0000|00|--
 0000|00|--
