@@ -1,7 +1,7 @@
 ﻿title=I'm so Happy
 artist=Ryu☆
 effect=TEK-A-RHYTHM
-jacket=exh_jacket.png
+jacket=jacket.jpg
 illustrator=いそにん
 difficulty=extended
 level=14

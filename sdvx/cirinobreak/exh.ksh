@@ -1,7 +1,7 @@
 ﻿title=Cirno Break
 artist=さわわ
 effect=Megacycle
-jacket=exh_jacket.jpg
+jacket=jacket.png
 illustrator=蒼弐
 difficulty=extended
 level=14
