@@ -1,7 +1,7 @@
 ﻿title=恋する☆宇宙戦争っ!! あばばばみっくす
 artist=ARM(IOSYS)
 effect=えいえいお～☆ふかせ
-jacket=inf_jacket.jpg
+jacket=inf_jacket.png
 illustrator=えいえいお～！蒼弐
 difficulty=infinite
 level=14
