@@ -1,7 +1,7 @@
 ﻿title=Ha･lle･lu･jah
 artist=SOUND HOLIC feat. Nana Takahashi
 effect=逆球レジェンド
-jacket=jacket.png
+jacket=exh_jacket.png
 illustrator=azuki VS clbU
 difficulty=infinite
 level=14

@@ -1,7 +1,7 @@
 ﻿title=Xepher Light and Darkness Dragon Remix
 artist=デッドボールP
 effect=レッドホットスクリューズ
-jacket=jacket.png
+jacket=exh_jacket.png
 illustrator=もとこ
 difficulty=extended
 level=14
