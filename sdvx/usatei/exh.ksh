@@ -1,0 +1,22 @@
+﻿title=ウサテイ
+artist=あまね＋ビートまりお（COOL&CREATE）
+effect=ごましおくん vs. Megacycle
+jacket=exh_jacket.jpg
+illustrator=カギ
+difficulty=extended
+level=14
+t=190
+m=nofx.ogg;exh.ogg
+o=0
+bg=desert
+layer=arrow
+po=0
+plength=15000
+pfiltergain=50
+filtertype=peak
+chokkakuvol=50
+ver=140d
+--
+beat=4/4
+0000|00|--
+--
