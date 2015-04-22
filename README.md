@@ -39,3 +39,5 @@ Koisuru ☆ uchū sensō ~tsu! !
 ![9ff6d5fe21c7f71d8782ad56df821d2b_1429729449.png](https://bitbucket.org/repo/5y4rb6/images/2016589420-9ff6d5fe21c7f71d8782ad56df821d2b_1429729449.png)
 ## 2. Creating a .ksh chart ##
 ![ChartMetaDesc.png](https://bitbucket.org/repo/5y4rb6/images/558140521-ChartMetaDesc.png)
+![ChartMetadataDetails.png](https://bitbucket.org/repo/5y4rb6/images/4261009097-ChartMetadataDetails.png)
+![GenreIcon.png](https://bitbucket.org/repo/5y4rb6/images/4226803361-GenreIcon.png)
