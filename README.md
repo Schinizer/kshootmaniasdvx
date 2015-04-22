@@ -17,8 +17,12 @@ We configure the directory this way for easy editing and playing the charts.
 Official SDVX Charts can be found over at http://www.sdvx.be/
 
 Find the chart that you will like to recreate on KSH
+
+Youtube tutorial for chart editing:
+
+https://www.youtube.com/watch?v=fRnLNiD2DRg
 ## 1. Create song folder ##
-To create a song, you will first need to create a folder named after the song in the songs folder
+To create a song, you will first need to create a folder named after the song in "kshootmania/songs/sdvx"
 
 The folder named **must satisfy** the following conditions:
 
