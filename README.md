@@ -4,7 +4,7 @@ SDVX Song packages meant for use in KShootMania.
 
 These charts follows the offical sdvx charts closely to emulate the original experience.
 
-## Setting up the charts ##
+## Setting up the charts for playing & editing ##
 1. Empty out the directory of "kshootmania\songs"
 2. Clone the repository directly into "kshootmania\songs"
 
