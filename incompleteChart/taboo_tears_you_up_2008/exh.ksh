@@ -1,12 +1,12 @@
 ﻿title=taboo tears you up 2008
-artist=
-effect=
-jacket=
-illustrator=
+artist=REDALiCE
+effect=TEK-A-RHYTHM
+jacket=jacket.png
+illustrator=晩杯あきら
 difficulty=Extended
 level=14
 t=180
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4
