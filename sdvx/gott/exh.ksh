@@ -1,7 +1,7 @@
 ﻿title=Gott
 artist=Hommarju
 effect=月刊ミズタニ
-jacket=exh_jacket
+jacket=exh_jacket.png
 illustrator=蒼弐
 difficulty=extended
 level=15
