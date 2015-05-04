@@ -1,8 +1,8 @@
 ﻿title=Evans VolteX Pf arrange
-artist=
-effect=
+artist=cosMo＠暴走P
+effect=しばまる子
 jacket=jacket.png
-illustrator=
+illustrator=XTC
 difficulty=Extended
 level=14
 t=180
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

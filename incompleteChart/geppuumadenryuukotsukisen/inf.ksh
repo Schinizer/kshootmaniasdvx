@@ -1,8 +1,8 @@
 ﻿title=「月風魔伝」龍骨鬼戦 yks Remix
-artist=
-effect=
+artist=yuukiss
+effect=ねちっこく堂
 jacket=jacket.png
-illustrator=
+illustrator=リトルバッファー
 difficulty=Infinite
 level=15
 t=150
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

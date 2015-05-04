@@ -1,10 +1,10 @@
 ﻿title=チルノのパーフェクトさんすう教室
-artist=
-effect=
+artist=ARM(IOSYS)
+effect=1+1+1は3じゃないぞ。オレたちは1+1+1でメガ松茶だ。⑨倍だぞ⑨倍
 jacket=jacket.png
-illustrator=
+illustrator=樹人
 difficulty=Infinite
-level=15
+level=14
 t=175
 m=nofx.ogg;inf.ogg
 o=0
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

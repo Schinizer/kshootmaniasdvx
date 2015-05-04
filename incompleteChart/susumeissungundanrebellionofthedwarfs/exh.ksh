@@ -1,8 +1,8 @@
 ﻿title=進め！イッスン軍団 -Rebellion of the Dwarfs-
-artist=
-effect=
+artist=dawn-system
+effect=THE THIRD MAN
 jacket=jacket.png
-illustrator=
+illustrator=あおにさいぐんだん
 difficulty=Extended
 level=14
 t=172
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

@@ -1,8 +1,8 @@
 ﻿title=neu BSP style
-artist=
-effect=
+artist=cosMo＠暴走P
+effect=TEK-A-RHYTHM
 jacket=jacket.png
-illustrator=
+illustrator=cosMo＠暴走P
 difficulty=Extended
 level=14
 t=199
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

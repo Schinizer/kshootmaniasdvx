@@ -1,8 +1,8 @@
 ﻿title=Ignited Night burst
-artist=
-effect=
+artist=N-driver
+effect=Megacycle
 jacket=jacket.png
-illustrator=
+illustrator=斑アゲ子
 difficulty=Extended
 level=14
 t=180
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

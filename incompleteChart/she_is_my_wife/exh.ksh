@@ -1,8 +1,8 @@
 ﻿title=She is my wife すーぱーアイドル☆ミツル子Remixちゃん
-artist=
-effect=
+artist=高井さんとuno(IOSYS)
+effect=すーぱーアイドル☆フカセ子ちゃん
 jacket=jacket.png
-illustrator=
+illustrator=NAGI
 difficulty=Extended
 level=14
 t=370
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

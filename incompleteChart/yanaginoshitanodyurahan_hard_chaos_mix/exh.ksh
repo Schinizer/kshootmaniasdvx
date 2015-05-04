@@ -1,8 +1,8 @@
 ﻿title=柳の下のデュラハン hard chaos mix
-artist=
-effect=
+artist=albel.
+effect=Megacycle
 jacket=jacket.png
-illustrator=
+illustrator=tam
 difficulty=Extended
 level=15
 t=220
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

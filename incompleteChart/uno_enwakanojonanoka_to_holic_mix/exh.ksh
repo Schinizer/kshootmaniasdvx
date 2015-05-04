@@ -1,8 +1,8 @@
 ﻿title=U.N.オーエンは彼女なのか？(TO-HOlic mix)
-artist=
-effect=
+artist=C-Show
+effect=TEK-A-RHYTHM × ごましおくん
 jacket=jacket.png
-illustrator=
+illustrator=壱
 difficulty=Extended
 level=15
 t=220
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

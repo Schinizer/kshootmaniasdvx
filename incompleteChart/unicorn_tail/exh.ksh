@@ -1,8 +1,8 @@
 ﻿title=Unicorn tail Dustboxxxx RMX
-artist=
-effect=
+artist=Dustboxxxx
+effect=週刊ミズタニ
 jacket=jacket.png
-illustrator=
+illustrator=Silly Gang
 difficulty=Extended
 level=14
 t=200
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

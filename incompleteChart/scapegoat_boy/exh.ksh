@@ -1,8 +1,8 @@
 ﻿title=SCAPEGOAT BOY - SDVX Edit. -
-artist=
-effect=
+artist=SOUND HOLIC feat. Nana Takahashi
+effect=ユカリ☆chan
 jacket=jacket.png
-illustrator=
+illustrator=月見堂
 difficulty=Extended
 level=14
 t=165
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

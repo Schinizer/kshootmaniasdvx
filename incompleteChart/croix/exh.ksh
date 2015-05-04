@@ -1,6 +1,6 @@
 ﻿title=croiX
 artist=TeamGrimoire+あま猫
-effect=月刊ミズタニとTEK-A-RHYTHM
+effect=レッドホットスクリューズ
 jacket=jacket.png
 illustrator=蒼弐
 difficulty=Extended
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx02.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

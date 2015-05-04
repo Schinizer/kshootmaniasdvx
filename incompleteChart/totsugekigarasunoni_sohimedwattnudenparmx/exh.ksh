@@ -1,8 +1,8 @@
 ﻿title=突撃!ガラスのニーソ姫! D.watt nu-denpa RMX
-artist=
-effect=
+artist=D.watt
+effect=ごましおくん(ニーソックス！)
 jacket=jacket.png
-illustrator=
+illustrator=蒼弐(ニーソ脱げる！)
 difficulty=Extended
 level=14
 t=185
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

@@ -1,8 +1,8 @@
 ﻿title=Broken 8cmix
-artist=
-effect=
+artist=iroha(sasaki)
+effect=デジャヴーSP
 jacket=jacket.png
-illustrator=
+illustrator=M-TC
 difficulty=Extended
 level=14
 t=150
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

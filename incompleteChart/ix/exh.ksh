@@ -1,10 +1,10 @@
 ﻿title=IX
-artist=164
-effect=PHQUASE
+artist=sky_delta
+effect=レッドホットスクリューズ
 jacket=jacket.png
-illustrator=NAGI-SHIO
+illustrator=xix
 difficulty=Extended
-level=15
+level=14
 t=198
 m=nofx.ogg;exh.ogg
 o=0
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx02.png
+icon=../sdvx03.png
 ver=140d
 --
 beat=4/4

@@ -1,6 +1,6 @@
 ﻿title=六兆年と一夜物語
 artist=kemu feat.IA
-effect=Megacycle
+effect=DJ UTO
 jacket=jacket.png
 illustrator=ハツ子
 difficulty=Extended
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx02.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

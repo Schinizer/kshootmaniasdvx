@@ -1,8 +1,8 @@
 ﻿title=snow storm -euphoria-
-artist=
-effect=
+artist=Yooh
+effect=TEK-A-RHYTHM
 jacket=jacket.png
-illustrator=
+illustrator=蒼弐
 difficulty=Extended
 level=15
 t=89
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

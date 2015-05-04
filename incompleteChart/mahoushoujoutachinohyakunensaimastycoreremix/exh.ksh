@@ -1,8 +1,8 @@
 ﻿title=魔法少女達の百年祭(masty core remix)
-artist=
-effect=
+artist=masty
+effect=MAD CHILD
 jacket=jacket.png
-illustrator=
+illustrator=魔法少女100￥
 difficulty=Extended
 level=14
 t=200
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

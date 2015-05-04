@@ -1,8 +1,8 @@
 ﻿title=Absurd Gaff
 artist=siromaru
-effect=PHQUASE
+effect=月刊ミズタニ×逆球レジェンド
 jacket=jacket.png
-illustrator=Silly Gang &amp; P-MAN
+illustrator=Silly Gang
 difficulty=Extended
 level=15
 t=160
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx03.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

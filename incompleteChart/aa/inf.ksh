@@ -1,8 +1,8 @@
 ﻿title=AA BlackY mix
 artist=BlackY
-effect=月刊ミズタニ
-jacket=inf_jacket.png
-illustrator=メルカトール
+effect=MAD CHILD
+jacket=jacket.png
+illustrator=メルカトール AO-NI mix
 difficulty=Infinite
 level=15
 t=160

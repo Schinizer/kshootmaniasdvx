@@ -1,8 +1,8 @@
 ﻿title=愛くるしフール -Not EASY!!-
-artist=
-effect=
+artist=2ボス如きに負けるかぼちゃではなｙうわー
+effect=週刊ミズタニ
 jacket=jacket.png
-illustrator=
+illustrator=日刊もとこ
 difficulty=Extended
 level=14
 t=174
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

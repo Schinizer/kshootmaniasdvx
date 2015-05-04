@@ -1,8 +1,8 @@
 ﻿title=Mother Ship (C-YA MIX)
-artist=
-effect=
+artist=C-YA
+effect=レッドホットスクリューズ
 jacket=jacket.png
-illustrator=
+illustrator=菌類
 difficulty=Extended
 level=14
 t=180
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

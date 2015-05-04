@@ -1,8 +1,8 @@
 ﻿title=GAMBOL(dfk SLC rmx)
-artist=
-effect=
+artist=D.F.K. Soundsystem
+effect=Hirayasu Matsudo
 jacket=jacket.png
-illustrator=
+illustrator=バイオレンス総監-JONY.C-
 difficulty=Infinite
 level=14
 t=177
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

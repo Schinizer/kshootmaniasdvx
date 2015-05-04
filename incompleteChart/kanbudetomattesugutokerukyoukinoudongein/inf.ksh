@@ -1,8 +1,8 @@
 ﻿title=患部で止まってすぐ溶ける ～ 狂気の優曇華院
-artist=
-effect=
+artist=ARM(IOSYS)
+effect=狂気のふかせ
 jacket=jacket.png
-illustrator=
+illustrator=カギ
 difficulty=Infinite
 level=15
 t=200
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

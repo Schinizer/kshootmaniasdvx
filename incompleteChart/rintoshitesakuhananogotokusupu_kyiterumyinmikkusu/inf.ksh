@@ -1,8 +1,8 @@
 ﻿title=凛として咲く花の如く スプーキィテルミィンミックス
-artist=
-effect=
+artist=マチゲリータ
+effect=Megacycle
 jacket=jacket.png
-illustrator=
+illustrator=-ShioniN-
 difficulty=Infinite
 level=14
 t=163
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

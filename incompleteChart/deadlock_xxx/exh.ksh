@@ -1,8 +1,8 @@
 ﻿title=DEADLOCK XXX
-artist=
-effect=
+artist=BlackY
+effect=月刊ミズタニ
 jacket=jacket.png
-illustrator=
+illustrator=XTC
 difficulty=Extended
 level=15
 t=222
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

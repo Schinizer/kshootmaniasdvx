@@ -1,8 +1,8 @@
 ﻿title=#FairyJoke #SDVX_Edit
-artist=
-effect=
+artist=uno(IOSYS)
+effect=Hirayasu Matsudo
 jacket=jacket.png
-illustrator=
+illustrator=雉本ユーヒ
 difficulty=Extended
 level=15
 t=160
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

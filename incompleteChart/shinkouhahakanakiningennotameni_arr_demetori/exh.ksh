@@ -1,8 +1,8 @@
 ﻿title=信仰は儚き人間の為に ～ Arr.Demetori
-artist=
-effect=
+artist=Demetori
+effect=逆球レジェンド
 jacket=jacket.png
-illustrator=
+illustrator=結城えいし
 difficulty=Extended
 level=15
 t=220
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

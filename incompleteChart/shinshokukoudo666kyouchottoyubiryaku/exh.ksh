@@ -1,8 +1,8 @@
 ﻿title=侵蝕コード：666　-今日ちょっと指（略-
-artist=
-effect=
+artist=かぼちゃ「黒幕はあやつぐ」と供述しており
+effect=THE THIRD MAN said ''I'm not MAD CHILD''.
 jacket=jacket.png
-illustrator=
+illustrator=美従有カレーさん太郎
 difficulty=Extended
 level=14
 t=276
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

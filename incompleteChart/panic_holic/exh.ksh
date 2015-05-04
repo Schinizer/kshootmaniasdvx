@@ -1,8 +1,8 @@
 ﻿title=PANIC HOLIC
 artist=C-Show
-effect=DJ 摂津 feat. ごましおくん
+effect=ごましおくん
 jacket=jacket.png
-illustrator=タカトウ　ナユタ &amp;P-MAN
+illustrator=タカトウ　ナユタ
 difficulty=Extended
 level=15
 t=220
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx03.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

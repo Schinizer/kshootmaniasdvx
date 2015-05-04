@@ -1,8 +1,8 @@
 ﻿title=ALBIDA Powerless Mix
-artist=
-effect=
+artist=無力P
+effect=MAD CHILD
 jacket=jacket.png
-illustrator=
+illustrator=M-TC PNmix
 difficulty=Infinite
 level=15
 t=156
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

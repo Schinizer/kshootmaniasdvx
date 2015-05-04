@@ -1,8 +1,8 @@
 ﻿title=Blue Rain Dustboxxxx RMX
-artist=
-effect=
+artist=Dustboxxxx
+effect=レッドホットスクリューズ
 jacket=jacket.png
-illustrator=
+illustrator=エビス
 difficulty=Extended
 level=14
 t=178
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

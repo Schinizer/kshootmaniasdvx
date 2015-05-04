@@ -1,8 +1,8 @@
 ﻿title=BabeL ～Next Story～
-artist=
-effect=
+artist=Power Of Nature
+effect=TEK-A-リ☆chan
 jacket=jacket.png
-illustrator=
+illustrator=菌類　＞infection!?＞　shio
 difficulty=Extended
 level=15
 t=173
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4
