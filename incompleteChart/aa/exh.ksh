@@ -1,12 +1,12 @@
 ﻿title=AA BlackY mix
-artist=
-effect=
-jacket=
-illustrator=
+artist=BlackY
+effect=月刊ミズタニ
+jacket=jacket.png
+illustrator=メルカトール
 difficulty=Extended
 level=15
 t=160
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

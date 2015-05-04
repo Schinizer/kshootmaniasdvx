@@ -1,12 +1,12 @@
 ﻿title=Cleopatrysm
-artist=
-effect=
-jacket=
-illustrator=
+artist=ピラミッ℃
+effect=THE THIRD MAN
+jacket=jacket.png
+illustrator=Ray
 difficulty=Infinite
 level=15
 t=190
-m=.mp3
+m=nofx.ogg;inf.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

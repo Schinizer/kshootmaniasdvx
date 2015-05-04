@@ -1,12 +1,12 @@
 ﻿title=Squeeze
-artist=
-effect=
-jacket=
-illustrator=
+artist=VENUS feat.Mutsuhiko Izumi
+effect=Hermit♣club
+jacket=jacket.png
+illustrator=XTC
 difficulty=Extended
 level=14
 t=173
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

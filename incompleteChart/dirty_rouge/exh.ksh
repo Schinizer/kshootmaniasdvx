@@ -1,12 +1,12 @@
 ﻿title=- dirty rouge -
-artist=
-effect=
-jacket=
-illustrator=
+artist=ぺのれり
+effect=博多の男
+jacket=jacket.png
+illustrator=モンパルナスの女
 difficulty=Extended
 level=14
 t=254
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

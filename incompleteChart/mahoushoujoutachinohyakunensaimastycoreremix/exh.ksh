@@ -1,12 +1,12 @@
 ﻿title=魔法少女達の百年祭(masty core remix)
 artist=
 effect=
-jacket=
+jacket=jacket.png
 illustrator=
 difficulty=Extended
 level=14
 t=200
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx00.png
 ver=140d
 --
 beat=4/4

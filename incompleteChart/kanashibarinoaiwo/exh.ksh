@@ -1,12 +1,12 @@
 ﻿title=金縛りの逢を
-artist=
-effect=
-jacket=
-illustrator=
+artist=はるなば
+effect=TEK-A-RHYTHM
+jacket=jacket.png
+illustrator=い ろ は
 difficulty=Extended
 level=15
 t=200
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

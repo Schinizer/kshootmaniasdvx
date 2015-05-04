@@ -1,12 +1,12 @@
 ﻿title=FLYING OUT TO THE SKY
-artist=
-effect=
-jacket=
-illustrator=
+artist=かめりあ
+effect=PHQUASE
+jacket=jacket.png
+illustrator=全て壊して掴み取る蒼弐　-そして鞭打ち-
 difficulty=Extended
 level=15
 t=244
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

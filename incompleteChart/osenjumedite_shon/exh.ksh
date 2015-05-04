@@ -1,12 +1,12 @@
 ﻿title=御千手メディテーション
-artist=
-effect=
-jacket=
-illustrator=
+artist=昇天家族
+effect=MAD CHILD
+jacket=jacket.png
+illustrator=shio
 difficulty=Extended
 level=14
 t=190
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

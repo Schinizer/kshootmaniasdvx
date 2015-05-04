@@ -1,12 +1,12 @@
 ﻿title=PULSE LASER
-artist=
-effect=
-jacket=
-illustrator=
+artist=ヒゲドライバー
+effect=MAD CHILD
+jacket=jacket.png
+illustrator=-AoniS-
 difficulty=Infinite
 level=14
 t=165
-m=.mp3
+m=nofx.ogg;inf.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

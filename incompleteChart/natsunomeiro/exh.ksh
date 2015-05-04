@@ -1,12 +1,12 @@
 ﻿title=ナツノメイロ
-artist=
-effect=
-jacket=
-illustrator=
+artist=stereoberry
+effect=レッドホットスクリューズ
+jacket=jacket.png
+illustrator=斉藤アキ
 difficulty=Extended
 level=14
 t=148
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

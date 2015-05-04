@@ -1,12 +1,12 @@
 ﻿title=U.N.オーエンは彼女なのか？haru_naba Remix
-artist=
-effect=
-jacket=
-illustrator=
+artist=はるなば
+effect=PHQUASE
+jacket=jacket.png
+illustrator=U.N.PENUN
 difficulty=Extended
 level=15
 t=200
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

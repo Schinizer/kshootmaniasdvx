@@ -1,12 +1,12 @@
 ﻿title=crazy cinema story
-artist=
-effect=
-jacket=
-illustrator=
+artist=黒魔
+effect=MAD CHILD
+jacket=jacket.png
+illustrator=かぶと山
 difficulty=Extended
 level=14
 t=150
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

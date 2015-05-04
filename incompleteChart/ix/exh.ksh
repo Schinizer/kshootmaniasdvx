@@ -1,12 +1,12 @@
 ﻿title=IX
-artist=
-effect=
-jacket=
-illustrator=
+artist=164
+effect=PHQUASE
+jacket=jacket.png
+illustrator=NAGI-SHIO
 difficulty=Extended
 level=15
 t=198
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

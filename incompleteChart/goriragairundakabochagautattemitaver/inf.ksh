@@ -1,12 +1,12 @@
 ﻿title=ごりらがいるんだ ～かぼちゃが歌ってみたver～
 artist=
 effect=
-jacket=
+jacket=jacket.png
 illustrator=
 difficulty=Infinite
 level=14
 t=160
-m=.mp3
+m=nofx.ogg;inf.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx00.png
 ver=140d
 --
 beat=4/4

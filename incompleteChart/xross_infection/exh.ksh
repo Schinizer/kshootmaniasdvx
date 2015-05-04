@@ -1,12 +1,12 @@
 ﻿title=XROSS INFECTION
-artist=
-effect=
-jacket=
-illustrator=
+artist=BlackY vs. Yooh
+effect=PHQUASE vs. FUKASE
+jacket=jacket.png
+illustrator=わたあめ vs. コモンセンス
 difficulty=Extended
 level=15
 t=194
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

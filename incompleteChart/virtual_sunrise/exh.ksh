@@ -1,12 +1,12 @@
 ﻿title=Virtual Sunrise
-artist=
-effect=
-jacket=
-illustrator=
+artist=kors k
+effect=MAD CHILD
+jacket=jacket.png
+illustrator=PENU
 difficulty=Extended
 level=14
 t=170
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

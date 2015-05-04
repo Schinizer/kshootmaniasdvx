@@ -1,12 +1,12 @@
 ﻿title=こちら、幸福安心委員会です。
-artist=
-effect=
-jacket=
-illustrator=
+artist=うたたP
+effect=ねちっこく堂
+jacket=jacket.png
+illustrator=EXIT TUNES
 difficulty=Extended
 level=14
 t=128
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

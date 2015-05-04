@@ -1,12 +1,12 @@
 ﻿title=西日暮里の踊り
-artist=
-effect=
-jacket=
-illustrator=
+artist=家の裏でマンボウが死んでるP
+effect=ねちっこく堂
+jacket=jacket.png
+illustrator=マンボウの姉
 difficulty=Infinite
-level=15
+level=14
 t=140
-m=.mp3
+m=nofx.ogg;inf.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

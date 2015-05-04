@@ -1,12 +1,12 @@
 ﻿title=KiLLeR MeRMaiD
-artist=
-effect=
-jacket=
-illustrator=
+artist=QURELESS
+effect=Ether99
+jacket=jacket.png
+illustrator=NAGI
 difficulty=Extended
 level=15
 t=440
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

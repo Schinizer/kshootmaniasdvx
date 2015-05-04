@@ -1,12 +1,12 @@
 ﻿title=ノイジーラバーソウル
-artist=
-effect=
-jacket=
-illustrator=
+artist=Last Note. feat. GUMI
+effect=Acid=Stone Valley
+jacket=jacket.png
+illustrator=スオウ
 difficulty=Extended
 level=14
 t=190
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

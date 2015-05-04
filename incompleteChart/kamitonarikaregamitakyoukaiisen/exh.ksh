@@ -1,12 +1,12 @@
 ﻿title=神となり彼が見た境界線
-artist=
-effect=
-jacket=
-illustrator=
+artist=上村香月
+effect=レッドホットスクリューズ
+jacket=jacket.png
+illustrator=みずは
 difficulty=Extended
 level=14
 t=178
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

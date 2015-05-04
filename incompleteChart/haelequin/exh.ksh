@@ -1,12 +1,12 @@
 ﻿title=HAELEQUIN
-artist=
-effect=
-jacket=
-illustrator=
+artist=orangentle   Yu_Asahina
+effect=レッドホットスクリューズ
+jacket=jacket.png
+illustrator=菌類
 difficulty=Extended
 level=15
 t=172
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

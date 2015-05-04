@@ -1,12 +1,12 @@
 ﻿title=天ノ弱
-artist=
-effect=
-jacket=
-illustrator=
+artist=164 feat. GUMI
+effect=THE THIRD MAN
+jacket=jacket.png
+illustrator=鳥越タクミ
 difficulty=Infinite
 level=15
 t=201
-m=.mp3
+m=nofx.ogg;inf.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

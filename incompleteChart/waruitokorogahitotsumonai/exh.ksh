@@ -1,12 +1,12 @@
 ﻿title=悪いところがひとつもない！
-artist=
-effect=
-jacket=
-illustrator=
+artist=臨界モスキー党
+effect=Megacycle
+jacket=jacket.png
+illustrator=オヌマ愛子
 difficulty=Extended
 level=14
 t=180
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

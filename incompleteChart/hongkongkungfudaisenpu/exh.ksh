@@ -1,12 +1,12 @@
 ﻿title=香港功夫大旋風
-artist=
-effect=
-jacket=
-illustrator=
+artist=Daisuke Ohnuma
+effect=ねちっこく堂
+jacket=jacket.png
+illustrator=AoniS
 difficulty=Extended
 level=15
 t=178
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

@@ -1,12 +1,12 @@
 ﻿title=Black Emperor
-artist=
-effect=
-jacket=
-illustrator=
+artist=黒魔
+effect=ごま-RHYTHM
+jacket=jacket.png
+illustrator=蒼弐＆shio＆ぺぬ（当ててみてね！）
 difficulty=Extended
 level=15
 t=195
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

@@ -1,12 +1,12 @@
 ﻿title=超越してしまった彼女と其を生み落した理由
-artist=
-effect=
-jacket=
-illustrator=
+artist=Ayatsugu_Otowa
+effect=TEK-A-RHYTHM
+jacket=jacket.png
+illustrator=超蒼弐
 difficulty=Extended
 level=15
 t=178
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

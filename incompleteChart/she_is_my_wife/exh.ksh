@@ -1,12 +1,12 @@
 ﻿title=She is my wife すーぱーアイドル☆ミツル子Remixちゃん
 artist=
 effect=
-jacket=
+jacket=jacket.png
 illustrator=
 difficulty=Extended
 level=14
 t=370
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx00.png
 ver=140d
 --
 beat=4/4

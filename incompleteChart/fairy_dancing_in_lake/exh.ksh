@@ -1,12 +1,12 @@
 ﻿title=#Fairy_dancing_in_lake
-artist=
-effect=
-jacket=
-illustrator=
+artist=uno(IOSYS)
+effect=Hirayasu Matsudo
+jacket=jacket.png
+illustrator=猫餅
 difficulty=Extended
 level=14
 t=142
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

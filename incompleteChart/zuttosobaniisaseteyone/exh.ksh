@@ -1,12 +1,12 @@
 ﻿title=ずっとそばにいさせてよね！
-artist=
-effect=
-jacket=
-illustrator=
+artist=Music by 音遊人 -mu-jin-, Vocal by みかん汁
+effect=しばまる子
+jacket=jacket.png
+illustrator=あおにゃん♪
 difficulty=Extended
 level=14
 t=180
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4

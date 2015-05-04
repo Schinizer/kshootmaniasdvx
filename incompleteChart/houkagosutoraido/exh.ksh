@@ -1,12 +1,12 @@
 ﻿title=放課後ストライド
-artist=
-effect=
-jacket=
-illustrator=
+artist=Last Note.
+effect=月刊ミズタニ
+jacket=jacket.png
+illustrator=明菜
 difficulty=Extended
 level=14
 t=225
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

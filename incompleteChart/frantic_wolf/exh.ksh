@@ -1,12 +1,12 @@
 ﻿title=Frantic Wolf
-artist=
-effect=
-jacket=
-illustrator=
+artist=Jerico
+effect=Megacycle
+jacket=jacket.png
+illustrator=Frantic Frog
 difficulty=Extended
 level=14
 t=178
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

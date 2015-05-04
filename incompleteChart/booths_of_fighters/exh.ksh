@@ -1,12 +1,12 @@
 ﻿title=Booths of Fighters
-artist=
-effect=
-jacket=
-illustrator=
+artist=RoughSketch + DD''ナカタ''Metal
+effect=MAD CHILD
+jacket=jacket.png
+illustrator=KAERU
 difficulty=Extended
 level=15
 t=225
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

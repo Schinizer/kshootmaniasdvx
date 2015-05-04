@@ -1,12 +1,12 @@
 ﻿title=少女暴動
-artist=
-effect=
-jacket=
-illustrator=
+artist=Last Note.
+effect=azuma
+jacket=jacket.png
+illustrator=のん
 difficulty=Extended
 level=15
 t=300
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4

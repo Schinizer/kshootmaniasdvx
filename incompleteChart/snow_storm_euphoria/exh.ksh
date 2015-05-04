@@ -1,12 +1,12 @@
 ﻿title=snow storm -euphoria-
 artist=
 effect=
-jacket=
+jacket=jacket.png
 illustrator=
 difficulty=Extended
 level=15
 t=89
-m=.mp3
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx00.png
 ver=140d
 --
 beat=4/4

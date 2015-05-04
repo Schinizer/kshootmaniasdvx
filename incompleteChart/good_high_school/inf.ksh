@@ -1,12 +1,12 @@
 ﻿title=good high school
-artist=
-effect=
-jacket=
-illustrator=
+artist=baker
+effect=MAD CHILD &amp; Hirayasu Matsudo
+jacket=jacket.png
+illustrator=ともこ
 difficulty=Infinite
 level=15
 t=150
-m=.mp3
+m=nofx.ogg;inf.ogg
 o=0
 bg=desert
 layer=arrow
@@ -15,6 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4
