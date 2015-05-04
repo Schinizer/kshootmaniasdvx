@@ -1,7 +1,7 @@
 ﻿title=AA BlackY mix
 artist=BlackY
 effect=月刊ミズタニ
-jacket=jacket.png
+jacket=exh_jacket.png
 illustrator=メルカトール
 difficulty=Extended
 level=15

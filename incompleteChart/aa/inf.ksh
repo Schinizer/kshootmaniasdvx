@@ -1,8 +1,8 @@
 ﻿title=AA BlackY mix
-artist=
-effect=
-jacket=jacket.png
-illustrator=
+artist=BlackY
+effect=月刊ミズタニ
+jacket=inf_jacket.png
+illustrator=メルカトール
 difficulty=Infinite
 level=15
 t=160
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4
