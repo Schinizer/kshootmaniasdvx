@@ -1,8 +1,8 @@
 ﻿title=少年は空を辿る Prog Piano Remix
-artist=
-effect=
+artist=とろまる
+effect=Megacycle
 jacket=jacket.png
-illustrator=
+illustrator=もとこ＆あおに
 difficulty=Extended
 level=14
 t=140
@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4
