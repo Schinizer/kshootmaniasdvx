@@ -1,5 +1,5 @@
 ﻿title=Venona
-artist=DOUBLE HELIX【たちのん&amp;零-zero-】
+artist=DOUBLE HELIX【たちのん&零-zero-】
 effect=週刊ミズタニ
 jacket=jacket.png
 illustrator=teco_uk
@@ -19,6 +19,7 @@ icon=../sdvx02.png
 ver=140d
 --
 beat=4/4
+t=178
 0000|00|--
 0000|00|--
 0000|00|--

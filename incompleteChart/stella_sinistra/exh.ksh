@@ -5,7 +5,7 @@ jacket=jacket.png
 illustrator=VJ GYO
 difficulty=Extended
 level=14
-t=180
+t=120-180
 m=nofx.ogg;exh.ogg
 o=0
 bg=desert
@@ -19,6 +19,7 @@ icon=../sdvx02.png
 ver=140d
 --
 beat=4/4
+t=120
 0000|00|--
 0000|00|--
 0000|00|--
@@ -490,6 +491,7 @@ beat=4/4
 0000|00|:-
 0000|00|:-
 0000|00|:-
+t=180
 0001|00|o-
 0000|00|:-
 0000|00|0-

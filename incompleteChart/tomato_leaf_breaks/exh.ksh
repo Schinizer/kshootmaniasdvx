@@ -1,10 +1,10 @@
 ﻿title=Tomato Leaf Breaks
-artist=
-effect=
+artist=millstones
+effect=Megacycle
 jacket=jacket.png
-illustrator=
+illustrator=もけもけ♪かんとりぃ
 difficulty=Extended
-level=14
+level=13
 t=240
 m=nofx.ogg;exh.ogg
 o=0
@@ -15,10 +15,11 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4
+t=240
 0000|00|--
 0000|00|--
 0000|00|--

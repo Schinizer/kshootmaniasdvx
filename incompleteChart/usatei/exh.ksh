@@ -1,5 +1,5 @@
 ﻿title=ウサテイ
-artist=あまね＋ビートまりお（COOL&amp;CREATE）
+artist=あまね＋ビートまりお（COOL&CREATE）
 effect=ごましおくん vs. Megacycle
 jacket=jacket.png
 illustrator=カギ
@@ -19,6 +19,7 @@ icon=../sdvx02.png
 ver=140d
 --
 beat=4/4
+t=190
 0000|00|--
 0000|00|--
 0000|00|--

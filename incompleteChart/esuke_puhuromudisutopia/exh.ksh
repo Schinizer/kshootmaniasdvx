@@ -1,8 +1,8 @@
-﻿title=エスケープ･フロム･ディストピア
-artist=
-effect=
+﻿title=エスケープ・フロム・ディストピア
+artist=cosMo＠暴走P feat.MAYU
+effect=DJ UTO
 jacket=jacket.png
-illustrator=
+illustrator=cosMo＠暴走P
 difficulty=Extended
 level=14
 t=208
@@ -15,10 +15,11 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4
+t=208
 0000|00|--
 0000|00|--
 0000|00|--

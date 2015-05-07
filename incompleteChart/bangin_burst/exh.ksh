@@ -1,8 +1,8 @@
 ﻿title=Bangin' Burst
-artist=
-effect=
+artist=かめりあ
+effect=月刊ごましお♣club
 jacket=jacket.png
-illustrator=
+illustrator=Pendoragon
 difficulty=Extended
 level=16
 t=234
@@ -15,10 +15,11 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx02.png
 ver=140d
 --
 beat=4/4
+t=234
 0000|00|--
 0000|00|--
 0000|00|--

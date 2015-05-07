@@ -1,8 +1,8 @@
-﻿title=Freeway Shuffle -More2 HAPPY Re-Mix-
-artist=
-effect=
+﻿title=Freeway Shuffle -Morb2 HAPPY Re-Mix-
+artist=Yu_Asahina
+effect=PHQUASE
 jacket=jacket.png
-illustrator=
+illustrator=M-TC
 difficulty=Extended
 level=14
 t=160
@@ -15,10 +15,11 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx00.png
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4
+t=160
 0000|00|--
 0000|00|--
 0000|00|--
