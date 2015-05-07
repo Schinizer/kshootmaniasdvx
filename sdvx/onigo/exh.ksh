@@ -6,7 +6,7 @@ illustrator=M-TC
 difficulty=extended
 level=15
 t=175
-m=nofx.ogg;exh.ogg;
+m=nofx.ogg;exh.ogg
 o=0
 bg=desert
 layer=arrow
@@ -19,8 +19,6 @@ icon=../sdvx01.png
 ver=140d
 --
 beat=4/4
-0000|00|--
---
 0111|00|0-
 0000|00|:-
 0000|00|o-
@@ -3343,7 +3341,5 @@ beat=4/4
 0000|00|--
 0000|00|--
 0000|00|--
-0000|00|--
---
 0000|00|--
 --
