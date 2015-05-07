@@ -15,7 +15,7 @@ plength=15000
 pfiltergain=50
 filtertype=peak
 chokkakuvol=50
-icon=../sdvx01.pnmg
+icon=../sdvx01.png
 ver=140d
 --
 beat=4/4
