@@ -7,7 +7,7 @@ difficulty=extended
 level=15
 t=175
 m=nofx.ogg;exh.ogg
-o=0
+o=1371
 bg=desert
 layer=arrow
 po=72685
@@ -3341,5 +3341,7 @@ beat=4/4
 0000|00|--
 0000|00|--
 0000|00|--
+0000|00|--
+--
 0000|00|--
 --
