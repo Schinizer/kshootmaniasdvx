@@ -29,9 +29,9 @@ They are fully mapped and in need of a little work to be playable.
 1. Fork this repository & create a new branch
 2. Look for the song you want to process in `\incompleteChart` folder
 3. Cut & paste the whole folder into to `\sdvx`
-4. [Processing the songs](https://github.com/Schinizer/kshootmaniasdvx#download-&-processing-the-songs)
+4. [Processing the songs](https://github.com/Schinizer/kshootmaniasdvx#download--processing-the-songs)
 5. [Processing the jacket](https://github.com/Schinizer/kshootmaniasdvx#processing-song-jackets)
-6. [Processing the Song preview]()
+6. [Processing the Song preview](https://github.com/Schinizer/kshootmaniasdvx#processing-song-previews)
 7. [Processing the Spinning/Gravity effects]()
 8. [Chart Proofing]()
 9. [Play Test]()
@@ -67,6 +67,7 @@ Here are some places you can find images for a start:
 :------------: | :-------------: | :-------------:
 [![RemyWikiJacket](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/RemyWikiJacket.png)](https://remywiki.com/SOUND_VOLTEX_Information) | [![GoogleImageJacket](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/GoogleImageSearch.png)](https://images.google.com/) | [![SDVX.beJacket](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/SdvxBe.png)](http://www.sdvx.be/)
 Click the image for high res version | `Search by Image` works well | Use this if you can't find high res jackets  
+Not always available | Not always available | Always available  
 
 ### Guidelines ###
   - Check if there is existing jacket (I've put some in)
@@ -81,6 +82,13 @@ Click the image for high res version | `Search by Image` works well | Use this i
     - Infinite Chart `inf_jacket.<extension>`
     - Gravity Chart `grv_jacket.<extension>`
     - **You will have to edit the meta of the relevant chart to accomodate this**
+
+## Processing Song previews ##
+Find the song's chorus timing and add it to song preview.  
+It is not necessary to have 1:1 song preview with SDVX. Find what works well and use it.  
+
+### Tips for song preview timing ###
+![CursorTip](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/Cursor.gif)
 
 # Project Status & Milestones #
 - [x] Extract data from [SDVX 譜面播放器](http://sdvx-sheet.github.io/) and convert them into `.ksh` charts
