@@ -109,6 +109,12 @@ All the charts are trimmed to their first measure, so there might be padding err
 You can either offset the track or just shift the notes to fix this.  
 `Tip: Use ctrl + a to select all notes, then ↑ ↓ keys to shift them`  
 
+### Gravity Charts ###
+![GravityChart](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/GravityChart.png)  
+K-Shoot MANIA does not support laser going beyond the laser lanes at the moment.  
+You will have to intepret the pattern and make it playable in KSM.  
+The objective is to emulate the original track.  
+
 ## Processing Lane Effects ##
 There are multiple lane effects in a SDVX track. Unfortunately, to find out what lane effects a track contains, you will need to find gameplay videos of it. From there, you will need to plot out the effects referencing from the video.
 
