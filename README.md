@@ -32,10 +32,12 @@ They are fully mapped and in need of a little work to be playable.
 4. [Processing the songs](https://github.com/Schinizer/kshootmaniasdvx#download--processing-the-songs)
 5. [Processing the jacket](https://github.com/Schinizer/kshootmaniasdvx#processing-song-jackets)
 6. [Processing the Song preview](https://github.com/Schinizer/kshootmaniasdvx#processing-song-previews)
-7. [Processing the Spinning/Gravity effects]()
-8. [Chart Proofing]()
-9. [Play Test]()
-10. Once everything is in order, make a pull request when you are ready
+7. [Chart Proofing](https://github.com/Schinizer/kshootmaniasdvx#chart-proofing)
+8. [Processing Lane effects](https://github.com/Schinizer/kshootmaniasdvx#processing-lane-effects)
+9. [Play Test](https://github.com/Schinizer/kshootmaniasdvx#play-test)
+10. Once everything is in order, save the chart and commit your changes to your fork. 
+11. Feel free to process other songs. (Repeat from step 2)
+12. When you are ready, make a pull request!
  
 ## Download & Processing the songs ##
 Songs are downloaded from Youtube and processed. The objective here is to preserve the quality for the best experience.
@@ -45,9 +47,9 @@ Songs are downloaded from Youtube and processed. The objective here is to preser
 2. Download the FX tracks and No FX tracks from the links (Youtube)  
 ![Reference](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/SongDownload.png)  
 If you do not have a downloader, you can try using [Clip Converter](http://www.clipconverter.cc/) or [4k Video Downloader](https://www.4kdownload.com/products/product-videodownloader).  
-To prevent more re-encoding, download the sound as `.aac` or `.m4a` and process them.  
+To prevent more re-encoding, download the sound as `.aac` or `.m4a`, then process them.  
 `Disclaimer: I am not afflicated with either products. Feel free to use them as you like`
-3. Trim the tracks, offseting them if required and save them into `.ogg` format
+3. Trim the tracks, offseting them if required and save them into `.ogg` format (Repo only takes `.ogg`)
 4. Rename the FX track `<diffculty>.ogg`
   * Novice charts `nov.ogg`
   * Advanced charts `adv.ogg`
@@ -90,8 +92,51 @@ It is not necessary to have 1:1 song preview with SDVX. Find what works well and
 ### Tips for song preview timing ###
 ![CursorTip](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/Cursor.gif)
 
+## Chart proofing ##
+The charts are directly extracted from [SDVX 譜面播放器](http://sdvx-sheet.github.io/) and they are prone to minor errors. You will need to correct the minor errors.  
+
+Simply navigate to [SDVX譜面保管所](http://www.sdvx.be/) and find your chart for reference.
+
+### Common errors ###
+Red laser is quite prone to errors, so keep a look out.  
+![LaserError](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/LaserError.png)  
+`Tip: Use selection tool to select laser segment & ctrl + ← → to shift laser endings`  
+
+BT & FX note errors are rare but may happen, keep a look out for them too.  
+
+All the charts are trimmed to their first measure, so there might be padding errors like this.
+![PaddingError](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/PaddingError.png)  
+You can either offset the track or just shift the notes to fix this.  
+`Tip: Use ctrl + a to select all notes, then ↑ ↓ keys to shift them`  
+
+## Processing Lane Effects ##
+There are multiple lane effects in a SDVX track. Unfortunately, to find out what lane effects a track contains, you will need to find gameplay videos of it. From there, you will need to plot out the effects referencing from the video.
+
+Here are some good youtube channels for reference  
+
+김광민 | LIRINSKY | PmD Terra  
+:----------: | :-----------: | :----------: 
+[![김광민](https://yt3.ggpht.com/-EaeNq__geTk/AAAAAAAAAAI/AAAAAAAAAAA/smob9qOjfEc/s900-c-k-no/photo.jpg)](https://www.youtube.com/channel/UCbb00aZbCf5_WDMSxXYQSVQ) | [![LIRINSKY](https://yt3.ggpht.com/-G9CsF3hZSdM/AAAAAAAAAAI/AAAAAAAAAAA/amfTSRooj4I/s900-c-k-no/photo.jpg)](https://www.youtube.com/user/lirinsky) | [![PmDTerra](https://yt3.ggpht.com/-Te8JewC4tVw/AAAAAAAAAAI/AAAAAAAAAAA/EXotiRWc7xw/s900-c-k-no/photo.jpg)](https://www.youtube.com/channel/UCh1i3ODEGeslRpIL50v7JtA)  
+
+Here is a breakdown of what needs to be done:  
+- [x] ~~BPM Change~~
+- [ ] [Lane Spin](http://gfycat.com/RepentantFortunateItaliangreyhound)
+- [ ] [Lane Tilt](http://gfycat.com/WellmadeExhaustedCarp)
+- [ ] [Lane Zoom](http://gfycat.com/CircularBountifulBarasinga)
+
+## Play test ##
+Please start K-Shoot Mania and navigate to the song you have created.  
+Here is a simple check list to look out for:  
+- Jacket check (If it doesn't load, please check your files)
+- Meta check (Artist, Effector, illustrator, Level, Diffculty)
+- Song Preview (Is the song preview correct?)
+- FX Track check (Play the song and try missing & hitting laser or long FX notes)
+  - If FX track is distorted / glitchy, your `nofx.ogg` and `<diffculty>.ogg` are not synced.
+- Lane Effect check (Check if they are working as intended)
+
 # Project Status & Milestones #
 - [x] Extract data from [SDVX 譜面播放器](http://sdvx-sheet.github.io/) and convert them into `.ksh` charts
 - [x] Populate extracted data with meta data
 - [ ] `In Progress` Process extracted `.ksh` charts
-- [ ] SDVX Song requests | Process remaining SDVX songs
+- [ ] Create remainder SDVX songs charts with meta data
+- [ ] SDVX Song requests | Plot remaining SDVX songs
