@@ -1,4 +1,4 @@
-﻿title=Wuv U -Morb2 HAPPY Re-Mix Special-
+﻿title=Wuv U -More2 HAPPY Re-Mix Special-
 artist=Yu_Asahina
 effect=Hermit♣club
 jacket=jacket.png
