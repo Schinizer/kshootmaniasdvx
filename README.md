@@ -27,18 +27,21 @@ They are fully mapped and in need of a little work to be playable.
 
 ## Processing the charts##
 1. Fork this repository & create a new branch
-2. Navigate to [KShootMania SDVX Song Status](https://docs.google.com/spreadsheets/d/1n0aO0TCHKOUCGxCDqg5vcdtosVNoQBc1Ty2WdSQHXtM/pubhtml) to check for collaborator status (To prevent conflicts, work only on songs that are not marked "In Progress")
-3. Look for the song you want to process in `\incompleteChart` folder
-4. Cut & paste the whole folder into to `\sdvx`
-5. [Processing the songs](https://github.com/Schinizer/kshootmaniasdvx#download--processing-the-songs)
-6. [Processing the jacket](https://github.com/Schinizer/kshootmaniasdvx#processing-song-jackets)
-7. [Processing the Song preview](https://github.com/Schinizer/kshootmaniasdvx#processing-song-previews)
-8. [Chart Proofing](https://github.com/Schinizer/kshootmaniasdvx#chart-proofing)
-9. [Processing Lane effects](https://github.com/Schinizer/kshootmaniasdvx#processing-lane-effects)
-10. [Play Test](https://github.com/Schinizer/kshootmaniasdvx#play-test)
-11. Once everything is in order, save the chart and commit your changes to your fork. 
-12. Feel free to process other songs. (Repeat from step 2)
-13. When you are ready, make a pull request!
+2. Navigate to [KShootMania SDVX Song Status](https://docs.google.com/spreadsheets/d/1n0aO0TCHKOUCGxCDqg5vcdtosVNoQBc1Ty2WdSQHXtM) to check for collaborator status
+3. Look for the song you want to process in the spreadsheet
+    - Set the relevant cell to "In Progress" if you are working on it
+    - To prevent conflicts, work only on songs that are not marked "In Progress"
+4. Navigate to `\incompleteChart` and find the song folder you are working on
+5. Cut & paste the whole folder into to `\sdvx`
+6. [Processing the songs](https://github.com/Schinizer/kshootmaniasdvx#download--processing-the-songs)
+7. [Processing the jacket](https://github.com/Schinizer/kshootmaniasdvx#processing-song-jackets)
+8. [Processing the Song preview](https://github.com/Schinizer/kshootmaniasdvx#processing-song-previews)
+9. [Chart Proofing](https://github.com/Schinizer/kshootmaniasdvx#chart-proofing)
+10. [Processing Lane effects](https://github.com/Schinizer/kshootmaniasdvx#processing-lane-effects)
+11. [Play Test](https://github.com/Schinizer/kshootmaniasdvx#play-test)
+12. Once everything is in order, save the chart and commit your changes to your fork. 
+13. Feel free to process other songs. (Repeat from step 4)
+14. When you are ready, make a pull request!
  
 ## Download & Processing the songs ##
 Songs are downloaded from Youtube and processed. The objective here is to preserve the quality for the best experience.
