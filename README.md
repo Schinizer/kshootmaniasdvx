@@ -27,17 +27,18 @@ They are fully mapped and in need of a little work to be playable.
 
 ## Processing the charts##
 1. Fork this repository & create a new branch
-2. Look for the song you want to process in `\incompleteChart` folder
-3. Cut & paste the whole folder into to `\sdvx`
-4. [Processing the songs](https://github.com/Schinizer/kshootmaniasdvx#download--processing-the-songs)
-5. [Processing the jacket](https://github.com/Schinizer/kshootmaniasdvx#processing-song-jackets)
-6. [Processing the Song preview](https://github.com/Schinizer/kshootmaniasdvx#processing-song-previews)
-7. [Chart Proofing](https://github.com/Schinizer/kshootmaniasdvx#chart-proofing)
-8. [Processing Lane effects](https://github.com/Schinizer/kshootmaniasdvx#processing-lane-effects)
-9. [Play Test](https://github.com/Schinizer/kshootmaniasdvx#play-test)
-10. Once everything is in order, save the chart and commit your changes to your fork. 
-11. Feel free to process other songs. (Repeat from step 2)
-12. When you are ready, make a pull request!
+2. Navigate to [KShootMania SDVX Song Status](https://docs.google.com/spreadsheets/d/1n0aO0TCHKOUCGxCDqg5vcdtosVNoQBc1Ty2WdSQHXtM/pubhtml) to check for collaborator status (To prevent conflicts, work only on songs that are not marked "In Progress")
+3. Look for the song you want to process in `\incompleteChart` folder
+4. Cut & paste the whole folder into to `\sdvx`
+5. [Processing the songs](https://github.com/Schinizer/kshootmaniasdvx#download--processing-the-songs)
+6. [Processing the jacket](https://github.com/Schinizer/kshootmaniasdvx#processing-song-jackets)
+7. [Processing the Song preview](https://github.com/Schinizer/kshootmaniasdvx#processing-song-previews)
+8. [Chart Proofing](https://github.com/Schinizer/kshootmaniasdvx#chart-proofing)
+9. [Processing Lane effects](https://github.com/Schinizer/kshootmaniasdvx#processing-lane-effects)
+10. [Play Test](https://github.com/Schinizer/kshootmaniasdvx#play-test)
+11. Once everything is in order, save the chart and commit your changes to your fork. 
+12. Feel free to process other songs. (Repeat from step 2)
+13. When you are ready, make a pull request!
  
 ## Download & Processing the songs ##
 Songs are downloaded from Youtube and processed. The objective here is to preserve the quality for the best experience.
@@ -111,7 +112,7 @@ You can either offset the track or just shift the notes to fix this.
 
 ### Gravity Charts ###
 ![GravityChart](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/GravityChart.png)  
-K-Shoot MANIA does not support laser going beyond the laser lanes at the moment.  
+K-Shoot MANIA does not support laser notes going beyond their lanes at the moment.  
 You will have to intepret the pattern and make it playable in KSM.  
 The objective is to emulate the original track.  
 
