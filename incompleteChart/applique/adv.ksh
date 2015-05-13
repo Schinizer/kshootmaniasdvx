@@ -1,4 +1,4 @@
-﻿title=Appliqu齷
+﻿title=Appliqué
 artist=
 effect=
 jacket=jacket.png
