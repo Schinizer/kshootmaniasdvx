@@ -1,8 +1,10 @@
-/*
-/*/
+*
 !/sdvx/
-!/sdvx-level.github.io/
+!/sdvx/*
 !/incompleteChart/
+!/incompleteChart/*
+!*.ksh
+!*.ogg
+!*.jpg
+!*.png
 !.gitignore
-*.xmp
-*.aac
