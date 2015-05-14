@@ -1,7 +1,7 @@
 ﻿title=HAVOX
 artist=BlackY vs. Yooh
 effect=逆球レジェンド vs. しばまる子
-jacket=jacket_exh.jpg
+jacket=jacket.png
 illustrator=KING
 difficulty=extended
 level=15
