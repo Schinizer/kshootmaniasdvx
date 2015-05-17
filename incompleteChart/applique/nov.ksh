@@ -1,7 +1,7 @@
 ﻿title=Appliqué
 artist=
 effect=
-jacket=jacket.png
+jacket=nov_jacket.png
 illustrator=
 difficulty=Light
 level=5

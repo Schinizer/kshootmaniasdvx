@@ -1,7 +1,7 @@
 ﻿title=Grip & Break down !! - SDVX Edit. -
 artist=SOUND HOLIC feat. Nana Takahashi
 effect=PHQUASE
-jacket=jacket.jpg
+jacket=jacket.png
 illustrator=月見堂
 difficulty=extended
 level=14

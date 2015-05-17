@@ -1,7 +1,7 @@
 ﻿title=Earthquake Super Shock - SDVX Edit. -
 artist=SOUND HOLIC feat. Nana Takahashi
 effect=Antonio Guccini
-jacket=jacket.jpg
+jacket=jacket.png
 illustrator=月見堂
 difficulty=extended
 level=14

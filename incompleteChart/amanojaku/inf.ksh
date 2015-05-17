@@ -1,7 +1,7 @@
 ﻿title=天ノ弱
 artist=164 feat. GUMI
 effect=THE THIRD MAN
-jacket=jacket.png
+jacket=exh_jacket.png
 illustrator=鳥越タクミ
 difficulty=Infinite
 level=15
