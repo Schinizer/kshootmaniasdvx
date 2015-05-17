@@ -1,7 +1,7 @@
 ﻿title=ALBIDA Powerless Mix
 artist=無力P
 effect=逆球レジェンド
-jacket=jacket.png
+jacket=exh_jacket.png
 illustrator=カズ
 difficulty=Extended
 level=13

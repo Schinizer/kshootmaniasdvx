@@ -1,7 +1,7 @@
 ﻿title=六兆年と一夜物語
 artist=kemu feat.IA
 effect=DJ UTO
-jacket=exh_jacket.jpg
+jacket=exh_jacket.png
 illustrator=ハツ子
 difficulty=extended
 level=14

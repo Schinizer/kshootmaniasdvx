@@ -1,7 +1,7 @@
 ﻿title=天ノ弱
 artist=164 feat. GUMI
 effect=DJ UTO
-jacket=jacket.png
+jacket=exh_jacket.png
 illustrator=鳥越タクミ
 difficulty=Extended
 level=13

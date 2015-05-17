@@ -1,7 +1,7 @@
 ﻿title=Appliqué
 artist=モリモリあつし
 effect=MaKoTo
-jacket=jacket.png
+jacket=exh_jacket.png
 illustrator=イケナイ！？奈奈ちゃんと黒猫とたまネコ
 difficulty=Extended
 level=14

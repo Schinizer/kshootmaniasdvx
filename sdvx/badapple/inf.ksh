@@ -1,7 +1,7 @@
 ﻿title=Bad Apple!! feat. nomico
 artist=Masayoshi Minoshima
 effect=Hermit♣club
-jacket=jacket.jpg
+jacket=jacket.png
 illustrator=深崎暮人
 difficulty=infinite
 level=14

@@ -1,7 +1,7 @@
 ﻿title=ウサテイ
 artist=あまね＋ビートまりお（COOL&CREATE）
 effect=ごましおくん vs. Megacycle
-jacket=exh_jacket.jpg
+jacket=exh_jacket.png
 illustrator=カギ
 difficulty=extended
 level=14
