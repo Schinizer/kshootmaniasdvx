@@ -1,7 +1,7 @@
 ﻿title=Broken 8cmix
 artist=iroha(sasaki)
 effect=デジャヴーSP
-jacket=jacket.png
+jacket=exh_jacket.png
 illustrator=M-TC
 difficulty=extended
 level=14

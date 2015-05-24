@@ -1,7 +1,7 @@
 ﻿title=大宇宙ステージ
 artist=黒魔
 effect=TEK-A-RHYTHM
-jacket=jacket.png
+jacket=nov_adv_exh_jacket.png
 illustrator=あおたまちゃん
 difficulty=extended
 level=15

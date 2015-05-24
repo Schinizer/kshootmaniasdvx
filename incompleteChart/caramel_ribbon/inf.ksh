@@ -1,7 +1,7 @@
 ﻿title=caramel ribbon
 artist=P*Light
 effect=MaKoTo
-jacket=jacket.jpg
+jacket=inf_jacket.jpg
 illustrator=MoToKo & ToMoKo
 difficulty=infinite
 level=14
