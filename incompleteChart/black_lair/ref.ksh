@@ -1,10 +1,10 @@
 ﻿title=Black Lair
 artist=削除
 effect=Kyanern
-jacket=cover.jpeg
+jacket=jacket.jpg
 illustrator=
 difficulty=challenge
-level=13
+level=20
 t=150
 m=nofx.ogg
 o=0
