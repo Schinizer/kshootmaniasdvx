@@ -16,14 +16,9 @@ The repository is configured this way for easy editing and playing the charts.
 ### Video Walkthrough ###
 [![Screenshot](http://schinizer.github.io/kshootmaniasdvx/githubTutorials/VideoWalkthrough.png)](https://www.youtube.com/watch?v=3Sh1gX-e9JE)
 
-# Contributing to this project #
+# Contributing to this project (Under Edit)#
 
-There are incomplete charts located in `\incompleteChart` folder.  
-They are configured exactly like the `songs` folder of KShootMania.  
-In `\incompleteChart\<song name>`, you will find the `.ksm` charts.  
-They are fully mapped and in need of a little work to be playable.  
-
-`If you cannot find the diffculty you are looking for, I'm sad to say I don't have the chart yet :(`
+This project has completed all the charts for SDVX and SDVX II. Any SDVX III chart is welcome.
 
 ## Processing the charts##
 1. Fork this repository & create a new branch
@@ -147,6 +142,7 @@ Here is a simple check list to look out for:
 # Project Status & Milestones #
 - [x] Extract data from [SDVX 譜面播放器](http://sdvx-sheet.github.io/) and convert them into `.ksh` charts
 - [x] Populate extracted data with meta data
-- [ ] `In Progress` Process extracted `.ksh` charts
-- [ ] Create remainder SDVX songs charts with meta data
-- [ ] SDVX Song requests | Plot remaining SDVX songs
+- [x] `In Progress` Process extracted `.ksh` charts
+- [x] Create remainder SDVX songs charts with meta data
+- [x] SDVX Song requests | Plot remaining SDVX songs
+- [ ] SDVX III Songs
