@@ -7,5 +7,6 @@
 !*.ogg
 !*.jpg
 !*.png
+!*.md
 !.gitignore
 !.gitattributes
