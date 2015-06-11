@@ -2,9 +2,13 @@
 
 SDVX Song packages meant for use in KShootMania. 
 
-These charts follows the offical sdvx charts closely to emulate the original experience.
+These charts follows the offical sdvx charts closely to emulate the original experience.  
 
-## How to setup for playing ##
+## SDVX and SDVX II Song packages ##
+The song packs can be found [here](https://github.com/Schinizer/kshootmaniasdvx/releases). 
+
+## SDVX III Song packages ##
+### How to setup for playing ###
 1. Empty out the directory of "kshootmania\songs"
 2. Clone the repository directly into "kshootmania\songs"
 3. **`Optional`** Revert your directory to its original state (This repository is configured to ignore all other songs)
@@ -18,7 +22,8 @@ The repository is configured this way for easy editing and playing the charts.
 
 # Contributing to this project (Under Edit)#
 
-This project has completed all the charts for SDVX and SDVX II. Any SDVX III chart is welcome.
+This project has completed all SDVX and SDVX II charts. They have been archived and released.  
+This repo will now only accept SDVX III charts.
 
 ## Processing the charts##
 1. Fork this repository & create a new branch
@@ -142,7 +147,7 @@ Here is a simple check list to look out for:
 # Project Status & Milestones #
 - [x] Extract data from [SDVX 譜面播放器](http://sdvx-sheet.github.io/) and convert them into `.ksh` charts
 - [x] Populate extracted data with meta data
-- [x] `In Progress` Process extracted `.ksh` charts
+- [x] Process extracted `.ksh` charts
 - [x] Create remainder SDVX songs charts with meta data
 - [x] SDVX Song requests | Plot remaining SDVX songs
-- [ ] SDVX III Songs
+- [ ] `In Progress` SDVX III Songs
