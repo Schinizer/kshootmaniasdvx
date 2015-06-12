@@ -5,7 +5,7 @@ SDVX Song packages meant for use in KShootMania.
 These charts follows the offical sdvx charts closely to emulate the original experience.  
 
 ## SDVX and SDVX II Song packages ##
-The song packs can be found [here](https://github.com/Schinizer/kshootmaniasdvx/releases). 
+They are completed and playable. Due to github not able to support repository above 1GB in size, SDVX and SDVX II songs are removed from the repo and archived. The song packs can be found [here](https://github.com/Schinizer/kshootmaniasdvx/releases). 
 
 ## SDVX III Song packages ##
 ### How to setup for playing ###
@@ -151,3 +151,10 @@ Here is a simple check list to look out for:
 - [x] Create remainder SDVX songs charts with meta data
 - [x] SDVX Song requests | Plot remaining SDVX songs
 - [ ] `In Progress` SDVX III Songs
+
+# Special Thanks for contribution #
+- Kyanern  
+- Dessard  
+- xheres  
+- Subreezy  
+- ChickenNotHD  
